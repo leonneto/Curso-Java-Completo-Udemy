@@ -1,0 +1,15 @@
+import java.util.Scanner;
+import java.util.Locale;
+import entities.Rectangle;
+public class Test {
+
+	public static void main(String[] args) {
+		Rectangle rectangle = new Rectangle();
+		Scanner scaner = new Scanner(System.in);
+		rectangle.
+		
+		scaner.close();
+
+	}
+
+}

@@ -1,0 +1,11 @@
+
+public class Rectangle {
+	private double width;
+	private double height;
+	
+	private double area() 
+	{
+		return width * height;
+	}
+
+}
