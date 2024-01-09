@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Enter the number of tax payers: ");
         int n = scanner.nextInt();
 
-        for(int i = 0; i <= i; i++){
+        for(int i = 0; i <= n; i++){
             System.out.println("Tax payer #" + (i + 1) + ":");
             System.out.println("Individual or company (i/c) ?");
             char option = scanner.next().charAt(0);
